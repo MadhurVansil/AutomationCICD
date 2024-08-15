@@ -20,6 +20,8 @@ public class Standalone {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
+		//New comments added
+		
 		String productName = "ZARA COAT 3";
 
 		WebDriverManager.chromedriver().setup();
